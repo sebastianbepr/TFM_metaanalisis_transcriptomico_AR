@@ -1,0 +1,36 @@
+# Datos (no se versionan: son publicos y pesados)
+Data_TFM/
+Datasets_Estandarizados/
+Datasets_Remediados/
+DGE_Resultados/
+Meta_Analisis_Objetos/
+Meta_Analisis_Resultados/
+Meta_Analisis_Enriquecimiento/
+Meta_Analisis_Entregables/
+Meta_Analisis_Graficos/
+Deconvolucion/
+Prostata/
+Prostata_Counts/
+Testiculo/
+Vejiga/
+Vejiga_Counts/
+TCGA_GTEX/
+*.rds
+*.csv
+*.xlsx
+*.png
+*.pdf
+*.txt.gz
+*.csv.gz
+
+# R
+.Rhistory
+.RData
+.RDataTmp
+.Rproj.user/
+*.Rproj
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
